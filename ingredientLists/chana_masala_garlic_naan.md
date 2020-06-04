@@ -1,6 +1,4 @@
-Alright everyone, there's a tie between the Bao Buns and the Chana Masala, so I'll go ahead and tie-break thtat and say that we're going to do the Chana Masala. Largely for ease of cooking this first time, and it requires no special tools, which is nice, only :sparkles:  **spice** :sparkles: . Here is the full ingredient list, but a few awesome things about this to keep in mind. 
-1. it's inherently vegan and gluten free, I'll post in a bit about the naan recipe, which can also be modified for vg/gf if needed.
-2. if you're missing some of the more exotic spices, it will **still taste delicious**. Now, I will say, the more of the 'special' spices (fenugreek, green cardamom, amchoor, etc.) the **better** it will taste, but there are only truly a few essentials. I'll make notes of which ones you really can't do without, and what you can sub if you don't want to spend money on spices you don't use a ton. 
+### Chana Masala Ingredients
 
  *   **2 tbsp coconut oil or vegetable oil** (cocount oil is a bit high in fat, so although it adds flavor, the added fat isn't worth it to me personally)
  *   **1 1/2 yellow onions**, finely diced (2 cups) (white onion is fine too, red onion would probably taste odd)
@@ -24,5 +22,54 @@ Alright everyone, there's a tie between the Bao Buns and the Chana Masala, so I'
  *   **minced cilantro, for garnish**
  *   **minced yellow onion, for garnish**
 
+### Garlic NaaN Ingredients. 
 
- If I didn't makes special note of something it's because I thought it was common and didn't need it, and is needed for the recipe. let me know if you have any questions, and I'll follow up shortly with the NaaN bread ingredients! 
+## With Yeast
+This method will reqiure you start a bit before the class, so that everything times out correctly. I'll give you the full schedule later, but the tl;dr is that you need about 2 hours total to create 'the perfect NaaN'. What that means in practice is that you'll be starting the NaaN around 4 PM. Up to you!
+Ingredient List: 
+* White Flour (bleached or unbleached)
+* salt
+* sugar
+* active dry yeast packet (the red bordered one from.. fleischmann? w/e)
+* 1/3 cup milk
+* plain yogurt or greek yogurt. 
+* Vegetable Oil
+* Garlic cloves
+* Butter
+* Cilantro
+* More Garlic :sparkles:
+
+## Without Yeast
+* Flour
+* Salt
+* Baking Powder
+* vegetable oil
+* milk
+* butter (for the topping)
+* garlic
+* cilantro
+
+## Vegan With Yeast (reqiures rising)
+* water
+* active dry yeast
+* sugar
+* white flour
+* salt
+* baking powder
+* garlic cloves
+* diary-free yogurt (coconut works, COYO has one)
+* vegetable oil
+* cocounut oil/vegan butter for topping
+* Garlic Cloves (more!)
+* cilantro
+
+This recipe I'm looking at [here](https://minimalistbaker.com/easy-vegan-naan/) doesn't specify why the rise is longer than in non-vegan alternatives. It's possible it takes the yeast a little longer to deal with the yogurt vs. milk? hard to say. YMMV, it might only take an hour/hour and a half to rise, could take 2-4 hours. Might wanna test this ahead of time. 
+
+## Vegan, no Yeast
+Follow the recipe up above and swap the milk for dairy free yogurt. that's it!
+
+
+## Special Note
+You can top the NaaN with... anything! pesto, mozzarella, cumin, I don't care! whatever you think is tasty. I'll be doing a buttery garlic with cilantro, but cooking is fun because it's flexible :).
+
+ If I didn't makes special note of something it's because I thought it was common and didn't need it, and is needed for the recipe.
